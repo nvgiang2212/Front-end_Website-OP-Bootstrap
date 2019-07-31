@@ -61,6 +61,26 @@ html, body {
     margin-top: .3rem;
     margin-bottom: 1rem;
 }
+.fa-code {
+    color: #e54d26;
+}
+.fa-bold {
+    color: #563d7c;
+}
+.fa-ccs3 {
+    color: #2163af;
+}
+.fa-code, .fa-bold, .fa-ccs3 {
+    font-size: 4rem;
+    margin: 1rem;
+}
+.fun {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+.gif {
+    max-width: 100%;
+}
 
 
 
